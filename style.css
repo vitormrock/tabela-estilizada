@@ -1,0 +1,19 @@
+
+.cabeçalho-moda {
+    background-color: #BB86FC;
+}
+
+.cabeçalho-casa {
+    background-color: #00C4B4;
+}
+
+.fundo-tabela {
+    background-color: #424250;
+    color: aliceblue;
+}
+h1{
+    background-color: #E1F0C4;
+    border: solid 10px #424250;
+    border-radius: 20px;
+}
+
